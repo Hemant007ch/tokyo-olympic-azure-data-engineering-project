@@ -1,4 +1,4 @@
-# tokyo-olympic-azure-data-engineering-project - Hemant
+# Tokyo-olympic-azure-data-engineering-project - Hemant
 
 🔍 Project Overview: Delved into the rich data of Olympic history to uncover insights and trends using Azure's powerful capabilities.
 
